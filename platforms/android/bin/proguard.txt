@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:21
+-keep class io.github.rsdoiel.example_inappbrowser.ExampleInAppBrowser { <init>(...); }
+
